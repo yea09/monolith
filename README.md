@@ -1,5 +1,5 @@
 # monolith 
-참고:  
+참고:   
 Order 와 product 는 N:1 (다대일) 관계이다.  
 
 
